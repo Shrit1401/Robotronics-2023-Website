@@ -5685,8 +5685,8 @@ img {
 
 .inner-eye-graphic {
   position: absolute;
-  top: 20%;
-  right: -19%;
+  top: -59%;
+  right: 8%;
 }
 
 .cloud {
@@ -5841,7 +5841,7 @@ img {
   position: absolute;
   top: 28%;
   z-index: 2;
-  width: 34em;
+  width: 50em;
 }
 
 .bg-circle-img {
@@ -6871,6 +6871,7 @@ img {
     top: 14%;
     right: 29%;
     width: 20em;
+    rotate: -50deg;
   }
 
   .home-graphic-vector-wrapper {
